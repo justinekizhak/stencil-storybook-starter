@@ -2,9 +2,11 @@
 
 # Stencil Storybook Starter
 
+Forked from [DesignByOnyx/stencil-storybook-starter](https://github.com/DesignByOnyx/stencil-storybook-starter)
+
 This is a batteries-included starter app for developing stencil components with Storybook.
 
-```
+```bash
 npx degit https://github.com/DesignByOnyx/stencil-storybook-starter.git
 yarn install # npm install
 yarn run storybook # npm run storybook
